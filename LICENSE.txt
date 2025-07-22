@@ -1,0 +1,35 @@
+AutoCutAI - Proprietary Freeware License Agreement
+
+Copyright © 2025 Mukuldeep Maiti. All Rights Reserved.
+
+IMPORTANT: PLEASE READ THIS LICENSE CAREFULLY BEFORE USING THIS SOFTWARE.
+
+This software application (“AutoCutAI”) is licensed, not sold. By installing, copying, or otherwise using AutoCutAI, you agree to be bound by the terms of this agreement.
+
+1. GRANT OF LICENSE
+You are hereby granted a non-exclusive, non-transferable, revocable license to use AutoCutAI for personal, non-commercial purposes only. This license does **not** transfer ownership of the software or its components.
+
+2. RESTRICTIONS
+Except as expressly permitted under this License, you may not:
+- Distribute, share, sublicense, rent, lease, or sell the software or any part thereof.
+- Reverse engineer, decompile, disassemble, or attempt to discover the source code or underlying ideas of the software.
+- Modify, adapt, translate, or create derivative works based on the software.
+- Use the software for any commercial purposes without explicit written permission from the copyright holder.
+
+3. INTELLECTUAL PROPERTY
+AutoCutAI and all associated intellectual property rights remain the sole and exclusive property of Mukuldeep Maiti. Unauthorized use or duplication is strictly prohibited and may be subject to civil and/or criminal penalties.
+
+4. NO WARRANTY
+This software is provided “AS IS” and without warranty of any kind, express or implied, including but not limited to warranties of merchantability, fitness for a particular purpose, and non-infringement.
+
+5. LIMITATION OF LIABILITY
+In no event shall the author be liable for any damages (including but not limited to lost profits, business interruption, or loss of data) arising out of the use or inability to use the software, even if advised of the possibility of such damages.
+
+6. TERMINATION
+This license is effective until terminated. It will terminate automatically without notice if you fail to comply with any of its terms. Upon termination, you must cease all use and delete all copies of the software in your possession.
+
+7. GOVERNING LAW
+This agreement shall be governed by and construed in accordance with the laws of India, without regard to its conflict of law principles.
+
+
+If you do not agree to the terms of this license, do not install, use, or distribute this software.
